@@ -1,0 +1,7 @@
+state/
+logs/
+*.dmp
+*.sav
+*.jsonl
+CrashContext*.xml
+UE4SS.log
